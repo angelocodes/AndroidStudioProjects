@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">MyActionBar</string>
+  <string name="actionbar_center">ActionBar Center</string>
+</resources>

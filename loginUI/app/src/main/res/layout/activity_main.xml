@@ -1,0 +1,18 @@
+<LinearLayout
+  attribute1="value1"
+  attribute2="value2">
+
+  <TextView
+    attribute1="value1"
+    attribute2="value2"
+    attribute3="value3" />
+
+  <Button
+    attribute1="value1"
+    attribute2="value2" />
+
+  <ImageView
+    attribute1="value1"
+    attribute2="value2"
+    attribute3="value3" />
+</LinearLayout>
